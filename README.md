@@ -85,11 +85,11 @@ mvn spring-boot:run
 🧪 Testando
 - Você pode interagir com a aplicação pelo terminal:
 
-- Digite 1 para cadastrar um cliente
+> Digite 1 para cadastrar um cliente
 
-- Digite 2 para buscar cliente por ID
+> Digite 2 para buscar cliente por ID
 
-- Digite 0 para sair da aplicação
+> Digite 0 para sair da aplicação
 
 ---
 
