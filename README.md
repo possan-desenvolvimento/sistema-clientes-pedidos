@@ -76,9 +76,9 @@ mvn spring-boot:run
 # A aplicação será executada e exibirá o seguinte menu no console:
 
 ==== MENU CLIENTES ====
-1 - Cadastrar novo cliente
-2 - Buscar cliente por ID
-0 - Sair
+  1 - Cadastrar novo cliente
+  2 - Buscar cliente por ID
+  0 - Sair
 
 --- 
 
